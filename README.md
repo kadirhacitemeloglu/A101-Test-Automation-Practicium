@@ -1,3 +1,3 @@
 # A101-Test-Automation-Practicium
 ## About Project
-Bu proje Selenium aracı ile yapıldı. A101 Practicium projesi bir bootcamp projesi olup, istenilen alışveriş sepetine doğru ürünün eklenmesi ve kontrolü, ödeme metoduna geçilerek testin kapatılması üzerinedir.
+This project was made with the Selenium tool. A101 Practicium project is a bootcamp project, it is about adding the right product to the desired shopping cart and checking it, switching to the payment method and closing the test.
